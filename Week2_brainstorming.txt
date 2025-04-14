@@ -1,0 +1,13 @@
+﻿Dataset info:
+* The results of studying online language use contained in the dataset would be helpful in understanding the community culture of these subreddits, which could contribute to the studies on meme culture and broadly, online culture. Using public sentiment to harness the power of public opinion, research has outlined methods for analyzing commercial interests. For example, researchers have studied the relationship between public sentiment on social media platforms and market impact (Nguyen & Shirai, 2015; Audrino et al., 2020). S & P Dow Jones Indices includes a social media sentiment factor (S&P Global, n.d.). Sentiment annotation on this Reddit dataset using VADER with a customized dictionary could provide a baseline comparison for researchers interested in using sentiment as a variable to study the processes and effects of public sentiment. Specifically, the sentiment annotation could assist studies on the relationship between public sentiment and price fluctuations of stock, between public sentiment and public opinion.
+
+
+
+
+RQ: How does the sentiment expressed in the subreddit correspond/relate to the GameStop stock in the market? (but still explore other questions)
+
+
+* In which flair do people write depending on the stock price?
+* How does flair seem to be assigned by the community?
+* How to deal with memes (images): valuable subtext that cannot be processed
+*
